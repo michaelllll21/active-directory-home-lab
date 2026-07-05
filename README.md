@@ -59,8 +59,33 @@ This project documents a Windows Server 2022 Active Directory home lab built for
 - [Testing Results](documentation/testing-results.md)
 - [Troubleshooting Notes](documentation/troubleshooting-notes.md)
 
-## Project Status
-In progress.
+## Evidence Screenshots
 
-## Resume Summary
+### Server Manager Roles
+![Server Manager Roles](screenshots/01-server-manager-roles.png)
+
+### Server IP Configuration
+![Server IP Configuration](screenshots/02-server-ipconfig.png)
+
+### Active Directory Users and Computers
+![Active Directory Users and Computers](screenshots/03-active-directory-users-computers.png)
+
+### DNS Forward Lookup Zone
+![DNS Forward Lookup Zone](screenshots/04-dns-forward-lookup-zone.png)
+
+### DHCP Scope
+![DHCP Scope](screenshots/05-dhcp-scope.png)
+
+### Windows 10 Domain Joined
+![Windows 10 Domain Joined](screenshots/07-windows10-domain-joined.png)
+
+### Client DNS Test
+![Client DNS Test](screenshots/08-client-ipconfig-nslookup.png)
+
+### Domain User Login
+![Domain User Login](screenshots/09-domain-user-login.png)
+
+
+### Project Status
+Completed.
 Built and documented a Windows Server 2022 Active Directory home lab with DNS, DHCP, domain-joined Windows 10 client, user and group management, Group Policy, mapped drives, and basic helpdesk troubleshooting tasks.
