@@ -1,7 +1,7 @@
 # Windows Server Active Directory Home Lab
 
 ## Project Overview
-This project documents a Windows Server 2022 Active Directory home lab built for practicing common IT support, system administration, and networking tasks. The lab includes a domain controller, DNS, DHCP, domain-joined Windows 10 client, user and group management, Group Policy, mapped drives, and basic troubleshooting.
+This project documents a Windows Server 2022 Active Directory home lab built for practicing common IT support, system administration, and networking tasks. The lab includes a domain controller, DNS, DHCP, a domain-joined Windows 10 client, user and group management, Group Policy, mapped drives, and basic troubleshooting.
 
 ## Objectives
 - Install and configure Windows Server 2022 as a domain controller
