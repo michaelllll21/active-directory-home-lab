@@ -17,7 +17,7 @@ This project documents a Windows Server 2022 Active Directory home lab built for
 ## Lab Environment
 
 | Device | Role | Operating System | IP Address |
-|--------|------|------------------|------------|
+|---|---|---|---|
 | Server2022 | Domain Controller / DNS / DHCP | Windows Server 2022 | 192.168.10.10 |
 | Desktop1 | Domain Client | Windows 10 | DHCP |
 | Kali-Linux | Testing Machine | Kali Linux | DHCP / Static |
@@ -25,7 +25,7 @@ This project documents a Windows Server 2022 Active Directory home lab built for
 ## Domain Information
 
 | Item | Value |
-|------|-------|
+|---|---|
 | Domain Name | SimoTech.com |
 | Domain Controller | server2022.simotech.com |
 | Network | 192.168.10.0/24 |
@@ -85,7 +85,8 @@ This project documents a Windows Server 2022 Active Directory home lab built for
 ### Domain User Login
 ![Domain User Login](screenshots/09-domain-user-login.png)
 
-
-### Project Status
+## Project Status
 Completed.
+
+## Resume Summary
 Built and documented a Windows Server 2022 Active Directory home lab with DNS, DHCP, domain-joined Windows 10 client, user and group management, Group Policy, mapped drives, and basic helpdesk troubleshooting tasks.
